@@ -8,7 +8,6 @@
 📅 **Date of Birth:** 22-06-1994  
 🌐 **Nationality:** Venezuelan  
 ✉️ **Email:** [ogarciarevett@gmail.com](mailto:ogarciarevett@gmail.com)  
-📞 **Phone:** +5491156432250
 
 ---
 
