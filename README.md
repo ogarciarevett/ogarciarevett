@@ -1,5 +1,5 @@
 # 💫 About Me:
-Senior Blockchain Engineer with 13 years of software development mastery and 8 years leading blockchain initiatives. Specializing in secure smart contract development, Layer 1/2 solutions, and distributed systems architecture. Currently focused on advancing Web3 gaming infrastructure and DeFi protocols.
+Senior Blockchain Engineer with 15 years of software development mastery and 8 years leading blockchain initiatives. Specializing in secure smart contract development, Layer 1/2 solutions, and distributed systems architecture. Currently focused on advancing Web3 gaming infrastructure and DeFi protocols.
 
 <br>🛠️ Core Focus Areas:<br/>
 <br>Smart Contract Development & Security
