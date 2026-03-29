@@ -1,5 +1,5 @@
 # 💫 About Me:
-Technical Lead & Senior Software Engineer with 13+ years building high-performance systems. Currently at **Sei Labs** engineering an ultra-low latency Hybrid DEX matching engine in Rust (~10μs pre-confirmation). Pursuing a **PhD in Machine Learning Engineering** (Cotutelle: University of Cambridge × UCM Madrid).
+Technical Lead & Senior Software Engineer with 13+ years building high-performance systems. Pursuing a **PhD in Machine Learning Engineering** (Cotutelle: University of Cambridge × UCM Madrid).
 
 Deeply focused on the intersection of **AI and Web3** — building AI-powered trading systems, autonomous agents, and LLM-integrated tooling with Python and Rust. Active contributor to the MCP (Model Context Protocol) ecosystem, AI agent frameworks, and open-source developer tooling for autonomous orchestration.
 
