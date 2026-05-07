@@ -1,8 +1,3 @@
-<!-- ─────────────────────────────────────────────────────────────────
-  Omar Garcia · ogarciarevett · GitHub Profile README
-  Modular structure — each <!-- SECTION --> can be edited independently.
-────────────────────────────────────────────────────────────────── -->
-
 <!-- SECTION: HEADER BANNER (aquamarine) -->
 <p align="center">
   <img
