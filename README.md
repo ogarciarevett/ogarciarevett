@@ -1,3 +1,4 @@
+
 <!-- SECTION: HEADER BANNER (aquamarine) -->
 <p align="center">
   <img
@@ -49,13 +50,10 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ### 🤖 AI / MCP
 
-<!-- TODO: list 2–3 of your personal AI/MCP repos here. Format:
-  - [repo-name](https://github.com/ogarciarevett/repo-name) — one-line description.
--->
+- [repo-name](https://github.com/ogarciarevett/claw-village) — Local personal agent manager
 
-- **[summon-api-suite](https://github.com/G7DAO/summon-api-suite)** — MCP server + AI-driven theming/portal-generation pipeline (Firecrawl), small RAG for non-technical admins, AI-DDD pipeline reading from Linear. Built as **Founder Engineer at Game7 DAO**.
 
-### 🔐 Smart Contracts (cross-VM)
+### 🔐 Latest Smart Contracts (cross-VM)
 
 - **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
 - **[summon-contracts-anchor](https://github.com/G7DAO/summon-contracts-anchor)** — Same primitives, **Solana / Anchor** (Rust).
@@ -73,8 +71,27 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 ```
 13+   years shipping production software
 100+  smart contracts deployed across EVM · SVM · Move
-3+    years building AI agents & LLM tooling
+2+    years building AI agents & LLM tooling
 ```
+
+---
+
+<!-- SECTION: GITHUB ACTIVITY (auto-updating) --> ## 📈 GitHub activity
+
+<!-- <p align="center">
+  <a href="https://github.com/ogarciarevett">
+    <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=ogarciarevett&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=14B8A6&text_color=FFFFFF&include_all_commits=true&count_private=false" alt="Omar's GitHub stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogarciarevett&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" alt="Top languages" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ogarciarevett&bg_color=0D1117&color=7FFFD4&line=14B8A6&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ogarciarevett&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repos" />
+</p> -->
 
 ---
 
@@ -87,20 +104,10 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
   </a>
 </p>
 
-**AI / LLM:** Anthropic Claude · OpenAI · LangChain · MCP (Model Context Protocol)
-**Chains & VMs:** EVM (Solidity, Foundry, Hardhat) · SVM (Anchor / Rust) · Move (Sui, Aptos)
-**Infra:** AWS Certified Solutions Architect · Docker · Kubernetes · Cloudflare Workers
-
----
-
-<!-- SECTION: EDUCATION & CREDENTIALS -->
-## 🎓 Education & Credentials
-
-> **MSc, Artificial Intelligence** — **University of Zurich**, 2024–2026
->
-> **AWS Certified Solutions Architect**
-
-**Languages:** 🇪🇸 Spanish (native) · 🇬🇧 English (C2) · 🇵🇹 Portuguese (conversational)
+**AI / LLM:** Anthropic Claude · OpenAI · LangChain · MCP (Model Context Protocol) · AI SDK(Vercel)
+**Chains & VMs:** EVM (Solidity, Rust, Foundry, Hardhat) · SVM (Anchor / Rust) · Move (Sui, Aptos)
+**Infra:** AWS Certified Solutions Architect · Docker · Kubernetes · Cloudflare Workers · CDK(Terraform) · CDK(AWS) · Pulumi
+**DBs:** Postgres · MongoDB · Redis · R2(Cloudflare)
 
 ---
 
@@ -121,5 +128,3 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
     <img src="https://img.shields.io/badge/Reach%20out-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
-<p align="center"><sub>Madrid 🇪🇸 · Working remote · Built with ☕ and a lot of <code>cargo build --release</code></sub></p>
