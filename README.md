@@ -50,7 +50,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ### 🤖 AI / MCP
 
-- [repo-name](https://github.com/ogarciarevett/claw-village) — Local personal agent manager
+- [Claw Village](https://github.com/ogarciarevett/claw-village) — Local personal agent manager
 
 
 ### 🔐 Latest Smart Contracts (cross-VM)
