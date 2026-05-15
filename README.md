@@ -57,6 +57,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ### Low Latency Systems
 - **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
+- **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - Docs(https://docs.0xmonaco.com/introduction)
 
 ### 🛠️ Protocol & infrastructure contributions
 - **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat.
