@@ -45,23 +45,27 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ---
 
-<!-- SECTION: PROJECTS -->
-## 🚀 Projects
+## 🚀 Projects & contributions
 
 ### 🤖 AI / MCP
+- **[claw-village](https://github.com/ogarciarevett/claw-village)** — Local personal agent manager. MCP-based.
+- **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** - Local personalized Japanese teacher (Claude Code Only)
+- **[hamlet](https://github.com/ogarciarevett/hamlet)** - Local Hyperliquid trading on Hermes Agent
+- **[compass-agent](https://github.com/ogarciarevett/compass-agent)** - LLM-powered navigation agent
+- **[social-autopilot](https://github.com/ogarciarevett/social-autopilot)** - AI social-media-manager agent pipeline(Claude Code + 16 skills + Remotion + Clip Extractor + Zernio + Voice DNA + KIE AI)
+- **[pupila](https://github.com/FranRom/pupila)** - Co-Author - Auto apply agent UI to find new jobs in the market.(Claude Code, Codex-CLI, Gemini-CLI, Open-Code, etc)
 
-- [Claw Village](https://github.com/ogarciarevett/claw-village) — Local personal agent manager
+### Low Latency Systems
+- **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
 
+### 🛠️ Protocol & infrastructure contributions
+- **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat.
+- **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
 
-### 🔐 Latest Smart Contracts (cross-VM)
-
+### 🔐 Smart contracts I authored (cross-VM)
 - **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
 - **[summon-contracts-anchor](https://github.com/G7DAO/summon-contracts-anchor)** — Same primitives, **Solana / Anchor** (Rust).
 - **[summon-contracts-move](https://github.com/G7DAO/summon-contracts-move)** — Same primitives, **Sui + Aptos** (Move).
-
-### 🛡️ Security
-
-- **Smart Contract Auditor** at [Code4rena](https://code4rena.com/@ogarciarevett) <!-- TODO: confirm slug --> — since June 2023.
 
 ---
 
