@@ -60,7 +60,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[pupila](https://github.com/FranRom/pupila)** - Co-Author - Auto apply agent UI to find new jobs in the market.(Claude Code, Codex-CLI, Gemini-CLI, Open-Code, etc)
 - **[Harness Arena](https://github.com/ogarciarevett/harness-arena)** - Assessment platform for AI-harness engineering skills 
 
-### Low Latency Systems
+### ⚡ Low Latency Systems
 - **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
 - **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
 
