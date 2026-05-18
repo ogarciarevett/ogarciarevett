@@ -88,7 +88,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 <p align="center">
   <a href="https://github.com/ogarciarevett">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ogarciarevett&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=14B8A6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Omar's GitHub stats" />
+    <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=ogarciarevett&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=14B8A6&text_color=FFFFFF&include_all_commits=true&cache_seconds=14400&v=2" alt="Omar's GitHub stats" />
     <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogarciarevett&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" alt="Top languages" /> -->
   </a>
 </p>
