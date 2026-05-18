@@ -47,9 +47,8 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ## 🚀 Projects & contributions
 
-### Random Projects
-
-- **[LangLab](https://github.com/ogarciarevett/lang-lab)** - OSS Playground for the most popular languages
+### 🧪 Side projects
+<!-- - **[LangLab](https://github.com/ogarciarevett/lang-lab)** — OSS playground for polyglot deep-dives. -->
 
 ### 🤖 AI / MCP
 - **[claw-village](https://github.com/ogarciarevett/claw-village)** — Local personal agent manager. MCP-based.
@@ -79,19 +78,18 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 ## 📊 By the numbers
 
 ```
-13+   years shipping production software
+14+   years shipping production software
 100+  smart contracts deployed across EVM · SVM · Move
 2+    years building AI agents & LLM tooling
 ```
-
 ---
 
-<!-- SECTION: GITHUB ACTIVITY (auto-updating) --> ## 📈 GitHub activity
+## 📈 GitHub activity
 
-<!-- <p align="center">
+<p align="center">
   <a href="https://github.com/ogarciarevett">
-    <!-- <img height="165" src="https://github-readme-stats.vercel.app/api?username=ogarciarevett&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=14B8A6&text_color=FFFFFF&include_all_commits=true&count_private=false" alt="Omar's GitHub stats" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogarciarevett&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" alt="Top languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ogarciarevett&show_icons=true&hide_border=true&bg_color=0D1117&title_color=7FFFD4&icon_color=14B8A6&text_color=FFFFFF&include_all_commits=true&count_private=true" alt="Omar's GitHub stats" />
+    <!-- <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogarciarevett&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=7FFFD4&text_color=FFFFFF" alt="Top languages" /> -->
   </a>
 </p>
 
@@ -100,8 +98,8 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=ogarciarevett&limit=6&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top contributed repos" />
-</p> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogarciarevett&hide_border=true&background=0D1117&stroke=14B8A6&ring=7FFFD4&fire=7FFFD4&currStreakLabel=7FFFD4&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub streak" />
+</p>
 
 ---
 
