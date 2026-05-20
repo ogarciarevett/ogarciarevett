@@ -51,7 +51,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 <!-- - **[LangLab](https://github.com/ogarciarevett/lang-lab)** — OSS playground for polyglot deep-dives. -->
 
 ### 🤖 AI / MCP
-- **[claw-village](https://github.com/ogarciarevett/claw-village)** — Local personal agent manager. MCP-based.
+- **[vesper](https://github.com/ogarciarevett/vesper)** — Local personal agent orchestrator. MCP-based.
 - **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** - Local personalized Japanese teacher (Claude Code Only)
 - **[hamlet](https://github.com/ogarciarevett/hamlet)** - Local Hyperliquid trading on Hermes Agent
 - **[compass-agent](https://github.com/ogarciarevett/compass-agent)** - LLM-powered navigation agent
