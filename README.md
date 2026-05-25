@@ -51,6 +51,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 <!-- - **[LangLab](https://github.com/ogarciarevett/lang-lab)** — OSS playground for polyglot deep-dives. -->
 
 ### 🤖 AI / MCP
+- **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — One operating contract for **every** AI coding tool, from a single source of truth (`.ai/`). Generates configs for Claude Code, Cursor, Codex, Gemini CLI & opencode — ~24 skills, lifecycle commands, reviewer personas, and a `/bootstrap` setup flow.
 - **[vesper](https://github.com/ogarciarevett/vesper)** — Local personal agent orchestrator. MCP-based.
 - **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** - Local personalized Japanese teacher (Claude Code Only)
 - **[hamlet](https://github.com/ogarciarevett/hamlet)** - Local Hyperliquid trading on Hermes Agent
