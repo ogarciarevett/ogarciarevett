@@ -61,11 +61,11 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ### ⚡ Low Latency Systems
 - **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
-- **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
 
 ### 🗄️ Old contributions
 - **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat.
 - **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
+- **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
 
 ### 🌍 Recent external merged contributions
 - **[anthropics/buffa](https://github.com/anthropics/buffa)** — Merged codegen fix for per-type `extern_path` handling: [#153](https://github.com/anthropics/buffa/pull/153).
