@@ -67,6 +67,12 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat.
 - **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
 
+### 🌍 Recent external merged contributions
+- **[anthropics/buffa](https://github.com/anthropics/buffa)** — Merged codegen fix for per-type `extern_path` handling: [#153](https://github.com/anthropics/buffa/pull/153).
+- **[relayprotocol/relay-mcp](https://github.com/relayprotocol/relay-mcp)** — Merged chain-native ETH resolution fix: [#4](https://github.com/relayprotocol/relay-mcp/pull/4).
+- **[crynta/terax-ai](https://github.com/crynta/terax-ai)** and **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Public AI tooling fixes for terminal prompt wrapping, markdown code-block preservation, and token-mode compression: [terax-ai#888](https://github.com/crynta/terax-ai/pull/888), [terax-ai#887](https://github.com/crynta/terax-ai/pull/887), [headroom#1489](https://github.com/headroomlabs-ai/headroom/pull/1489).
+- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS PRs — external merged PRs outside `ogarciarevett/*` are mirrored in the live [portfolio contribution feed](https://ogarciarevett.com#oss).
+
 ### 🔐 Smart contracts I authored (cross-VM)
 - **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
 - **[summon-contracts-anchor](https://github.com/G7DAO/summon-contracts-anchor)** — Same primitives, **Solana / Anchor** (Rust).
