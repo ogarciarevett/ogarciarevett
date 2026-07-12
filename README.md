@@ -68,10 +68,12 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
 
 ### 🌍 Recent external merged contributions
-- **[anthropics/buffa](https://github.com/anthropics/buffa)** — Merged codegen fix for per-type `extern_path` handling: [#153](https://github.com/anthropics/buffa/pull/153).
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** — Fixed Hermes WebUI onboarding port alignment and collision validation: [#6283](https://github.com/NVIDIA/NemoClaw/pull/6283).
+- **[anthropics/buffa](https://github.com/anthropics/buffa)** — Preserved packed closed-enum unknowns in protobuf views and fixed per-type `extern_path` codegen: [#252](https://github.com/anthropics/buffa/pull/252), [#153](https://github.com/anthropics/buffa/pull/153).
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Made heartbeat and cron work resilient to transient filesystem read races: [#100389](https://github.com/openclaw/openclaw/pull/100389).
 - **[relayprotocol/relay-mcp](https://github.com/relayprotocol/relay-mcp)** — Merged chain-native ETH resolution fix: [#4](https://github.com/relayprotocol/relay-mcp/pull/4).
 - **[crynta/terax-ai](https://github.com/crynta/terax-ai)** and **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Public AI tooling fixes for terminal prompt wrapping, markdown code-block preservation, and token-mode compression: [terax-ai#888](https://github.com/crynta/terax-ai/pull/888), [terax-ai#887](https://github.com/crynta/terax-ai/pull/887), [headroom#1489](https://github.com/headroomlabs-ai/headroom/pull/1489).
-- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS PRs — external merged PRs outside `ogarciarevett/*` are mirrored in the live [portfolio contribution feed](https://ogarciarevett.com#oss).
+- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS work — 80 verified merged PRs outside `ogarciarevett/*` are mirrored in the live [portfolio contribution feed](https://ogarciarevett.com#oss).
 
 ### 🔐 Smart contracts I authored (cross-VM)
 - **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
