@@ -54,10 +54,8 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — One operating contract for **every** AI coding tool, from a single source of truth (`.ai/`). Generates configs for Claude Code, Cursor, Codex, Gemini CLI & opencode — ~24 skills, lifecycle commands, reviewer personas, and a `/bootstrap` setup flow.
 - **[vesper](https://github.com/ogarciarevett/vesper)** — Local personal agent orchestrator. MCP-based.
 - **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** - Local personalized Japanese teacher (Claude Code Only)
-- **[compass-agent](https://github.com/ogarciarevett/compass-agent)** - LLM-powered navigation agent
+- **[stacker](https://github.com/ogarciarevett/stacker)** - Skill tool to group up similar skills and avoid waisting extra tokens.
 - **[social-autopilot](https://github.com/ogarciarevett/social-autopilot)** - AI social-media-manager agent pipeline(Claude Code + 16 skills + Remotion + Clip Extractor + Zernio + Voice DNA + KIE AI)
-- **[pupila](https://github.com/FranRom/pupila)** - Co-Author - Auto apply agent UI to find new jobs in the market.(Claude Code, Codex-CLI, Gemini-CLI, Open-Code, etc)
-- **[Harness Arena](https://github.com/ogarciarevett/harness-arena)** - Assessment platform for AI-harness engineering skills 
 
 ### ⚡ Low Latency Systems
 - **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
