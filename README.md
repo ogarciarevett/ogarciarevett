@@ -66,6 +66,10 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
 
 ### 🌍 Recent external merged contributions
+- **[elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)** —
+  Kept authenticated `AsyncConversation` startup from blocking its event loop
+  while fetching a signed URL:
+  [#818](https://github.com/elevenlabs/elevenlabs-python/pull/818).
 - **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** — Fixed Hermes WebUI onboarding port alignment and collision validation: [#6283](https://github.com/NVIDIA/NemoClaw/pull/6283).
 - **[anthropics/buffa](https://github.com/anthropics/buffa)** — Benchmarked owned `AnalyticsEvent` representations, honored field-level enum openness during reflection, inlined generated view-field decoding, enforced closed-enum unknown-field limits, preserved packed closed-enum unknowns in protobuf views, and fixed per-type `extern_path` codegen: [#327](https://github.com/anthropics/buffa/pull/327), [#321](https://github.com/anthropics/buffa/pull/321), [#313](https://github.com/anthropics/buffa/pull/313), [#312](https://github.com/anthropics/buffa/pull/312), [#252](https://github.com/anthropics/buffa/pull/252), [#153](https://github.com/anthropics/buffa/pull/153).
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Made heartbeat and cron work resilient to transient filesystem read races: [#100389](https://github.com/openclaw/openclaw/pull/100389).
