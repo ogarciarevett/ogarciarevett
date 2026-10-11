@@ -56,7 +56,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[vesper](https://github.com/ogarciarevett/vesper)** — Local personal agent orchestrator. MCP-based.
 
 #### Harnesses (plugins, etc)
-- **harness-plugins** — The Grok Bot plugin. Private repository; public link coming when released.
+- **grok-engram** — Grok Bot plugin with a filtered, read-only memory store and MCP server. Private repository; public link coming when released.
 - **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — Shared operating contract and configuration templates for AI coding tools.
 
 #### Skills
@@ -67,7 +67,6 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 #### AI apps
 - **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** — Local Japanese practice app with spaced repetition, stroke grading, and a personal progress store.
-<!-- booker: add its public link and description here after the repository becomes public. -->
 
 ### 🏆 Hackathon
 - **[bazaar](https://github.com/claude-hackaton-madrid-team-1/bazaar)** — Autonomous trading agents with natural-language negotiation and guarded execution for The Bazaar, Madrid 2026.
@@ -80,33 +79,32 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat: [#2229](https://github.com/sei-protocol/sei-chain/pull/2229).
 - **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
 - **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
-
 - **[mmoeip/inventory](https://github.com/mmoeip/inventory)** — Built the standalone inventory contract and repaired its tests and CI: [#1](https://github.com/mmoeip/inventory/pull/1), [#15](https://github.com/mmoeip/inventory/pull/15), [#17](https://github.com/mmoeip/inventory/pull/17).
 - **[moonstream-to/web3](https://github.com/moonstream-to/web3)** — Fixed the SDK build: [#258](https://github.com/moonstream-to/web3/pull/258).
 
 ### 🌍 Latest contributions
 
-Newest public merged and open PRs outside my account, refreshed weekly.
+Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
 <!-- LATEST-CONTRIBUTIONS:START -->
 - **Open** [stablyai/orca#27451](https://github.com/stablyai/orca/pull/27451) — fix\(mobile\): preserve reading position across overlapping terminal snapshots
-- **Merged** [claude-hackaton-madrid-team-1/bazaar#309](https://github.com/claude-hackaton-madrid-team-1/bazaar/pull/309) — feat\(sales\): invite teams to our market on its own \(words only\)
-- **Merged** [claude-hackaton-madrid-team-1/bazaar#308](https://github.com/claude-hackaton-madrid-team-1/bazaar/pull/308) — fix\(guardrails\): forbid further pack purchases
-- **Merged** [claude-hackaton-madrid-team-1/bazaar#307](https://github.com/claude-hackaton-madrid-team-1/bazaar/pull/307) — fix\(sales\): hunt buyers and counter on allied markets
-- **Merged** [claude-hackaton-madrid-team-1/bazaar#306](https://github.com/claude-hackaton-madrid-team-1/bazaar/pull/306) — fix\(guardrails\): stop pack restocking and focus team sales
-- **Merged** [claude-hackaton-madrid-team-1/bazaar-live#68](https://github.com/claude-hackaton-madrid-team-1/bazaar-live/pull/68) — fix\(live\): keep Sales speech audible across tick changes
-- **Merged** [claude-hackaton-madrid-team-1/bazaar-live#67](https://github.com/claude-hackaton-madrid-team-1/bazaar-live/pull/67) — Give ElevenLabs characters distinct delivery without changing their words
-- **Merged** [claude-hackaton-madrid-team-1/bazaar-live#66](https://github.com/claude-hackaton-madrid-team-1/bazaar-live/pull/66) — fix\(live\): show and voice acknowledged private Sales messages
-- **Merged** [claude-hackaton-madrid-team-1/bazaar#304](https://github.com/claude-hackaton-madrid-team-1/bazaar/pull/304) — feat\(sales\): apply truthful marketing to actual offer contact
-- **Merged** [claude-hackaton-madrid-team-1/bazaar#303](https://github.com/claude-hackaton-madrid-team-1/bazaar/pull/303) — chore\(guardrails\): max\_price\_pack 600 for gold packs \(Omar\)
+- **Open** [Edel-Finance/edel-ai-config#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) — docs: point the backend skill at the production origins
+- **Open** [nearai/ironclaw#6949](https://github.com/nearai/ironclaw/pull/6949) — fix\(product\): accept model set command syntax
+- **Merged** [crynta/terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085) — fix\(pty\): avoid fish conda prompt recursion
+- **Open** [nanocoai/nanoclaw#3147](https://github.com/nanocoai/nanoclaw/pull/3147) — fix\(agent-runner\): keep destination reply context local
+- **Merged** [anthropics/buffa#358](https://github.com/anthropics/buffa/pull/358) — bench: measure selective inline lists
+- **Open** [nearai/ironclaw#6714](https://github.com/nearai/ironclaw/pull/6714) — test: isolate Trace Commons coverage from local state
+- **Merged** [elevenlabs/elevenlabs-python#818](https://github.com/elevenlabs/elevenlabs-python/pull/818) — fix: avoid blocking AsyncConversation startup
+- **Merged** [alloy-rs/alloy#4094](https://github.com/alloy-rs/alloy/pull/4094) — fix\(provider\): preserve pending block miner
+- **Merged** [anthropics/buffa#327](https://github.com/anthropics/buffa/pull/327) — bench: compare AnalyticsEvent owned types
 <!-- LATEST-CONTRIBUTIONS:END -->
 
 [Browse the full contribution history](https://github.com/search?q=is%3Apr+author%3Aogarciarevett+-user%3Aogarciarevett+is%3Apublic&type=pullrequests&s=created&o=desc).
 
 More contribution work:
 
-- **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — Model-set command syntax and isolated Trace Commons coverage: [#6949](https://github.com/nearai/ironclaw/pull/6949), [#6714](https://github.com/nearai/ironclaw/pull/6714).
-- **[nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)** — Destination-local reply context: [#3147](https://github.com/nanocoai/nanoclaw/pull/3147).
-- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Production origin guidance for the backend skill: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1).
+- **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — Model-set command syntax and isolated Trace Commons coverage: [#6949](https://github.com/nearai/ironclaw/pull/6949) (open), [#6714](https://github.com/nearai/ironclaw/pull/6714) (open).
+- **[nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)** — Destination-local reply context: [#3147](https://github.com/nanocoai/nanoclaw/pull/3147) (open).
+- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Production origin guidance for the backend skill: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) (open).
 
 ### 🌍 Selected merged contributions
 - **[elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)** —

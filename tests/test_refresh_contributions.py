@@ -56,7 +56,7 @@ class RefreshTests(unittest.TestCase):
         with patch.object(refresh.subprocess, 'run', return_value=response) as run:
             self.assertEqual(refresh.fetch('merged', 10), [])
         arguments = run.call_args.args[0]
-        self.assertIn('q=is:pr author:ogarciarevett -user:ogarciarevett is:public is:merged', arguments)
+        self.assertIn('q=is:pr author:ogarciarevett -user:ogarciarevett -org:claude-hackaton-madrid-team-1 is:public is:merged', arguments)
         self.assertIn('sort=created', arguments)
         self.assertIn('order=desc', arguments)
 

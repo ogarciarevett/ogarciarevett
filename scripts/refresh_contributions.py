@@ -13,7 +13,8 @@ AUTHOR = 'ogarciarevett'
 
 
 def fetch(state, limit):
-    query = f'is:pr author:{AUTHOR} -user:{AUTHOR} is:public is:{state}'
+    query = (f'is:pr author:{AUTHOR} -user:{AUTHOR} '
+             f'-org:claude-hackaton-madrid-team-1 is:public is:{state}')
     result = subprocess.run(
         ['gh', 'api', '-X', 'GET', 'search/issues', '-f', f'q={query}',
          '-f', 'sort=created', '-f', 'order=desc', '-f', f'per_page={limit}'],
