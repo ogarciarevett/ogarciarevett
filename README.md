@@ -57,6 +57,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 #### Harnesses (plugins, etc)
 - **[engram-reader](https://github.com/ogarciarevett/engram-reader)** — Read-only, privacy-filtered MCP server and skill for Engram memory. Works with Grok Bot, Cursor, Claude Code and Codex.
+- **[orca-bridge](https://github.com/ogarciarevett/orca-bridge)** — Constrained MCP bridge that lets an outside assistant send typed requests to an allowlisted Orca coordinator and read its replies.
 - **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — Shared operating contract and configuration templates for AI coding tools.
 
 #### Skills
