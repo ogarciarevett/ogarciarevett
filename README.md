@@ -51,47 +51,79 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 <!-- - **[LangLab](https://github.com/ogarciarevett/lang-lab)** — OSS playground for polyglot deep-dives. -->
 
 ### 🤖 AI / MCP
-- **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — One operating contract for **every** AI coding tool, from a single source of truth (`.ai/`). Generates configs for Claude Code, Cursor, Codex, Gemini CLI & opencode — ~24 skills, lifecycle commands, reviewer personas, and a `/bootstrap` setup flow.
+
+#### Personal Agents
 - **[vesper](https://github.com/ogarciarevett/vesper)** — Local personal agent orchestrator. MCP-based.
-- **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** - Local personalized Japanese teacher (Claude Code Only)
-- **[stacker](https://github.com/ogarciarevett/stacker)** - Skill tool to group up similar skills and avoid waisting extra tokens.
-- **[social-autopilot](https://github.com/ogarciarevett/social-autopilot)** - AI social-media-manager agent pipeline(Claude Code + 16 skills + Remotion + Clip Extractor + Zernio + Voice DNA + KIE AI)
+
+#### Harnesses (plugins, etc)
+- **grok-engram** — Grok Bot plugin with a filtered, read-only memory store and MCP server. Private repository; public link coming when released.
+- **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — Shared operating contract and configuration templates for AI coding tools.
+
+#### Skills
+- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Agent skills and authentication guidance for the Edel PERPS public API.
+
+#### Tools
+- **[stacker](https://github.com/ogarciarevett/stacker)** — Skill tool to group similar skills and avoid wasting extra tokens.
+
+#### AI apps
+- **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** — Local Japanese practice app with spaced repetition, stroke grading, and a personal progress store.
+
+### 🏆 Hackathon
+- **[bazaar](https://github.com/claude-hackaton-madrid-team-1/bazaar)** — Autonomous trading agents with natural-language negotiation and guarded execution for The Bazaar, Madrid 2026.
+- **[bazaar-live](https://github.com/claude-hackaton-madrid-team-1/bazaar-live)** — Real-time animated show and activity timeline for Team 1's Bazaar trades, duels, and decisions.
 
 ### ⚡ Low Latency Systems
 - **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
 
 ### 🗄️ Old contributions
-- **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat.
+- **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat: [#2229](https://github.com/sei-protocol/sei-chain/pull/2229).
 - **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
 - **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
+- **[mmoeip/inventory](https://github.com/mmoeip/inventory)** — Built the standalone inventory contract and repaired its tests and CI: [#1](https://github.com/mmoeip/inventory/pull/1), [#15](https://github.com/mmoeip/inventory/pull/15), [#17](https://github.com/mmoeip/inventory/pull/17).
+- **[moonstream-to/web3](https://github.com/moonstream-to/web3)** — Fixed the SDK build: [#258](https://github.com/moonstream-to/web3/pull/258).
 
-### 🌍 Recent external merged contributions
+### 🌍 Latest contributions
+
+Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
+<!-- LATEST-CONTRIBUTIONS:START -->
+- **Open** [stablyai/orca#27451](https://github.com/stablyai/orca/pull/27451) — fix\(mobile\): preserve reading position across overlapping terminal snapshots
+- **Open** [Edel-Finance/edel-ai-config#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) — docs: point the backend skill at the production origins
+- **Open** [nearai/ironclaw#6949](https://github.com/nearai/ironclaw/pull/6949) — fix\(product\): accept model set command syntax
+- **Merged** [crynta/terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085) — fix\(pty\): avoid fish conda prompt recursion
+- **Open** [nanocoai/nanoclaw#3147](https://github.com/nanocoai/nanoclaw/pull/3147) — fix\(agent-runner\): keep destination reply context local
+- **Merged** [anthropics/buffa#358](https://github.com/anthropics/buffa/pull/358) — bench: measure selective inline lists
+- **Open** [nearai/ironclaw#6714](https://github.com/nearai/ironclaw/pull/6714) — test: isolate Trace Commons coverage from local state
+- **Merged** [elevenlabs/elevenlabs-python#818](https://github.com/elevenlabs/elevenlabs-python/pull/818) — fix: avoid blocking AsyncConversation startup
+- **Merged** [alloy-rs/alloy#4094](https://github.com/alloy-rs/alloy/pull/4094) — fix\(provider\): preserve pending block miner
+- **Merged** [anthropics/buffa#327](https://github.com/anthropics/buffa/pull/327) — bench: compare AnalyticsEvent owned types
+<!-- LATEST-CONTRIBUTIONS:END -->
+
+[Browse the full contribution history](https://github.com/search?q=is%3Apr+author%3Aogarciarevett+-user%3Aogarciarevett+is%3Apublic&type=pullrequests&s=created&o=desc).
+
+More contribution work:
+
+- **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — Model-set command syntax and isolated Trace Commons coverage: [#6949](https://github.com/nearai/ironclaw/pull/6949) (open), [#6714](https://github.com/nearai/ironclaw/pull/6714) (open).
+- **[nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)** — Destination-local reply context: [#3147](https://github.com/nanocoai/nanoclaw/pull/3147) (open).
+- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Production origin guidance for the backend skill: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) (open).
+
+### 🌍 Selected merged contributions
 - **[elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)** —
   Kept authenticated `AsyncConversation` startup from blocking its event loop
   while fetching a signed URL:
   [#818](https://github.com/elevenlabs/elevenlabs-python/pull/818).
+- **[alloy-rs/alloy](https://github.com/alloy-rs/alloy)** — Preserved the pending block miner in the provider: [#4094](https://github.com/alloy-rs/alloy/pull/4094).
 - **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** — Fixed Hermes WebUI onboarding port alignment and collision validation: [#6283](https://github.com/NVIDIA/NemoClaw/pull/6283).
 - **[anthropics/buffa](https://github.com/anthropics/buffa)** — Benchmarked selective inline lists and owned `AnalyticsEvent` representations, honored field-level enum openness during reflection, inlined generated view-field decoding, enforced closed-enum unknown-field limits, preserved packed closed-enum unknowns in protobuf views, and fixed per-type `extern_path` codegen: [#358](https://github.com/anthropics/buffa/pull/358), [#327](https://github.com/anthropics/buffa/pull/327), [#321](https://github.com/anthropics/buffa/pull/321), [#313](https://github.com/anthropics/buffa/pull/313), [#312](https://github.com/anthropics/buffa/pull/312), [#252](https://github.com/anthropics/buffa/pull/252), [#153](https://github.com/anthropics/buffa/pull/153).
 - **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Made heartbeat and cron work resilient to transient filesystem read races: [#100389](https://github.com/openclaw/openclaw/pull/100389).
 - **[relayprotocol/relay-mcp](https://github.com/relayprotocol/relay-mcp)** — Merged chain-native ETH resolution fix: [#4](https://github.com/relayprotocol/relay-mcp/pull/4).
 - **[crynta/terax-ai](https://github.com/crynta/terax-ai)** and **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Public AI tooling fixes for Fish/Conda prompt recursion, terminal prompt wrapping, markdown code-block preservation, and token-mode compression: [terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085), [terax-ai#888](https://github.com/crynta/terax-ai/pull/888), [terax-ai#887](https://github.com/crynta/terax-ai/pull/887), [headroom#1489](https://github.com/headroomlabs-ai/headroom/pull/1489).
-- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS work — 80 verified merged PRs outside `ogarciarevett/*` are mirrored in the live [portfolio contribution feed](https://ogarciarevett.com#oss).
+- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS work — Selected merged PRs are also shown in the [portfolio contribution feed](https://ogarciarevett.com#oss).
 
 ### 🔐 Smart contracts I authored (cross-VM)
 - **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
 - **[summon-contracts-anchor](https://github.com/G7DAO/summon-contracts-anchor)** — Same primitives, **Solana / Anchor** (Rust).
 - **[summon-contracts-move](https://github.com/G7DAO/summon-contracts-move)** — Same primitives, **Sui + Aptos** (Move).
 
----
-
-<!-- SECTION: BY THE NUMBERS -->
-## 📊 By the numbers
-
-```
-14+   years shipping production software
-100+  smart contracts deployed across EVM · SVM · Move
-2+    years building AI agents & LLM tooling
-```
 ---
 
 ## 📈 GitHub activity
