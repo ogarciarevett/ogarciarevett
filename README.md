@@ -56,7 +56,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[vesper](https://github.com/ogarciarevett/vesper)** — Local personal agent orchestrator. MCP-based.
 
 #### Harnesses (plugins, etc)
-- **grok-engram** — Grok Bot plugin with a filtered, read-only memory store and MCP server. Private repository; public link coming when released.
+- **[engram-reader](https://github.com/ogarciarevett/engram-reader)** — Read-only, privacy-filtered MCP server and skill for Engram memory. Works with Grok Bot, Cursor, Claude Code and Codex.
 - **[cross-ai-template](https://github.com/ogarciarevett/cross-ai-template)** — Shared operating contract and configuration templates for AI coding tools.
 
 #### Skills
