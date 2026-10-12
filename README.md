@@ -88,7 +88,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
 <!-- LATEST-CONTRIBUTIONS:START -->
 - **Open** [stablyai/orca#27451](https://github.com/stablyai/orca/pull/27451) — fix\(mobile\): preserve reading position across overlapping terminal snapshots
-- **Open** [Edel-Finance/edel-ai-config#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) — docs: point the backend skill at the production origins
+- **Merged** [Edel-Finance/edel-ai-config#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) — docs: point the backend skill at the production origins
 - **Open** [nearai/ironclaw#6949](https://github.com/nearai/ironclaw/pull/6949) — fix\(product\): accept model set command syntax
 - **Merged** [crynta/terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085) — fix\(pty\): avoid fish conda prompt recursion
 - **Open** [nanocoai/nanoclaw#3147](https://github.com/nanocoai/nanoclaw/pull/3147) — fix\(agent-runner\): keep destination reply context local
