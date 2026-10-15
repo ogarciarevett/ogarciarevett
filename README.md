@@ -87,6 +87,9 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
 <!-- LATEST-CONTRIBUTIONS:START -->
+- **Open** [stablyai/orca#28433](https://github.com/stablyai/orca/pull/28433) — feat\(codex-accounts\): switch accounts before a usage limit
+- **Open** [stablyai/orca#28432](https://github.com/stablyai/orca/pull/28432) — feat\(cli\): add orca file close
+- **Open** [stablyai/orca#28431](https://github.com/stablyai/orca/pull/28431) — fix\(computer-macos\): build the helper with the native Swift build system
 - **Open** [stablyai/orca#27451](https://github.com/stablyai/orca/pull/27451) — fix\(mobile\): preserve reading position across overlapping terminal snapshots
 - **Merged** [Edel-Finance/edel-ai-config#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) — docs: point the backend skill at the production origins
 - **Open** [nearai/ironclaw#6949](https://github.com/nearai/ironclaw/pull/6949) — fix\(product\): accept model set command syntax
@@ -94,9 +97,6 @@ Newest public merged and open PRs outside my account, excluding the hackathon te
 - **Open** [nanocoai/nanoclaw#3147](https://github.com/nanocoai/nanoclaw/pull/3147) — fix\(agent-runner\): keep destination reply context local
 - **Merged** [anthropics/buffa#358](https://github.com/anthropics/buffa/pull/358) — bench: measure selective inline lists
 - **Open** [nearai/ironclaw#6714](https://github.com/nearai/ironclaw/pull/6714) — test: isolate Trace Commons coverage from local state
-- **Merged** [elevenlabs/elevenlabs-python#818](https://github.com/elevenlabs/elevenlabs-python/pull/818) — fix: avoid blocking AsyncConversation startup
-- **Merged** [alloy-rs/alloy#4094](https://github.com/alloy-rs/alloy/pull/4094) — fix\(provider\): preserve pending block miner
-- **Merged** [anthropics/buffa#327](https://github.com/anthropics/buffa/pull/327) — bench: compare AnalyticsEvent owned types
 <!-- LATEST-CONTRIBUTIONS:END -->
 
 [Browse the full contribution history](https://github.com/search?q=is%3Apr+author%3Aogarciarevett+-user%3Aogarciarevett+is%3Apublic&type=pullrequests&s=created&o=desc).
