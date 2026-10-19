@@ -87,16 +87,16 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
 <!-- LATEST-CONTRIBUTIONS:START -->
-- **Open** [stablyai/orca#28433](https://github.com/stablyai/orca/pull/28433) — feat\(codex-accounts\): switch accounts before a usage limit
-- **Open** [stablyai/orca#28432](https://github.com/stablyai/orca/pull/28432) — feat\(cli\): add orca file close
-- **Open** [stablyai/orca#28431](https://github.com/stablyai/orca/pull/28431) — fix\(computer-macos\): build the helper with the native Swift build system
-- **Open** [stablyai/orca#27451](https://github.com/stablyai/orca/pull/27451) — fix\(mobile\): preserve reading position across overlapping terminal snapshots
-- **Merged** [Edel-Finance/edel-ai-config#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) — docs: point the backend skill at the production origins
-- **Open** [nearai/ironclaw#6949](https://github.com/nearai/ironclaw/pull/6949) — fix\(product\): accept model set command syntax
-- **Merged** [crynta/terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085) — fix\(pty\): avoid fish conda prompt recursion
-- **Open** [nanocoai/nanoclaw#3147](https://github.com/nanocoai/nanoclaw/pull/3147) — fix\(agent-runner\): keep destination reply context local
-- **Merged** [anthropics/buffa#358](https://github.com/anthropics/buffa/pull/358) — bench: measure selective inline lists
-- **Open** [nearai/ironclaw#6714](https://github.com/nearai/ironclaw/pull/6714) — test: isolate Trace Commons coverage from local state
+- **Merged** [Edel-Finance/edel-ai-config#14](https://github.com/Edel-Finance/edel-ai-config/pull/14) — Add capability rows for six agent tools
+- **Merged** [Edel-Finance/edel-ai-config#12](https://github.com/Edel-Finance/edel-ai-config/pull/12) — ci: run both jobs on Blacksmith runners
+- **Merged** [Edel-Finance/edel-ai-config#11](https://github.com/Edel-Finance/edel-ai-config/pull/11) — Capability rows for the new agent tools
+- **Merged** [Edel-Finance/edel-ai-config#9](https://github.com/Edel-Finance/edel-ai-config/pull/9) — TOOLS.md sync merges itself and runs on backend dispatch
+- **Merged** [Edel-Finance/edel-ai-config#7](https://github.com/Edel-Finance/edel-ai-config/pull/7) — Sync TOOLS.md with the public MCP tools and OpenAPI
+- **Merged** [Edel-Finance/edel-ai-config#6](https://github.com/Edel-Finance/edel-ai-config/pull/6) — docs\(skills\): public MCP and REST catch-up in edel-markets
+- **Merged** [Edel-Finance/edel-ai-config#5](https://github.com/Edel-Finance/edel-ai-config/pull/5) — ci\(skills\): hourly TOOLS.md sync from public sources
+- **Merged** [Edel-Finance/edel-ai-config#4](https://github.com/Edel-Finance/edel-ai-config/pull/4) — docs\(skills\): passkeys per venue, edel\_passkeys and edel\_me in edel-markets
+- **Merged** [Edel-Finance/edel-ai-config#3](https://github.com/Edel-Finance/edel-ai-config/pull/3) — feat\(skills\): rename edel-backend to edel-markets, docs as the source of truth
+- **Merged** [Edel-Finance/edel-ai-config#2](https://github.com/Edel-Finance/edel-ai-config/pull/2) — feat: Claude Code plugin and generic config for the public Edel MCP
 <!-- LATEST-CONTRIBUTIONS:END -->
 
 [Browse the full contribution history](https://github.com/search?q=is%3Apr+author%3Aogarciarevett+-user%3Aogarciarevett+is%3Apublic&type=pullrequests&s=created&o=desc).
