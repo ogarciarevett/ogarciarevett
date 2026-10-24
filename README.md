@@ -61,6 +61,9 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ### 🤖 AI / MCP
 
+#### Personal Agents
+- **Commas** (coming soon) — Always-on personal agent with plugins, its own browser, and remote control of your other machines over Tailscale.
+
 #### Harnesses (plugins, etc)
 - **[engram-reader](https://github.com/ogarciarevett/engram-reader)** — Read-only, privacy-filtered MCP server and skill for Engram memory. Works with Grok Bot, Cursor, Claude Code and Codex.
 - **[orca-bridge](https://github.com/ogarciarevett/orca-bridge)** — Constrained MCP bridge that lets an outside assistant send typed requests to an allowlisted Orca coordinator and read its replies.
