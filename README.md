@@ -56,6 +56,19 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ## 🚀 Projects & contributions
 
+### 🌍 Selected merged contributions
+- **[elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)** —
+  Kept authenticated `AsyncConversation` startup from blocking its event loop
+  while fetching a signed URL:
+  [#818](https://github.com/elevenlabs/elevenlabs-python/pull/818).
+- **[alloy-rs/alloy](https://github.com/alloy-rs/alloy)** — Preserved the pending block miner in the provider: [#4094](https://github.com/alloy-rs/alloy/pull/4094).
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** — Fixed Hermes WebUI onboarding port alignment and collision validation: [#6283](https://github.com/NVIDIA/NemoClaw/pull/6283).
+- **[anthropics/buffa](https://github.com/anthropics/buffa)** — Benchmarked selective inline lists and owned `AnalyticsEvent` representations, honored field-level enum openness during reflection, inlined generated view-field decoding, enforced closed-enum unknown-field limits, preserved packed closed-enum unknowns in protobuf views, and fixed per-type `extern_path` codegen: [#358](https://github.com/anthropics/buffa/pull/358), [#327](https://github.com/anthropics/buffa/pull/327), [#321](https://github.com/anthropics/buffa/pull/321), [#313](https://github.com/anthropics/buffa/pull/313), [#312](https://github.com/anthropics/buffa/pull/312), [#252](https://github.com/anthropics/buffa/pull/252), [#153](https://github.com/anthropics/buffa/pull/153).
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Made heartbeat and cron work resilient to transient filesystem read races: [#100389](https://github.com/openclaw/openclaw/pull/100389).
+- **[relayprotocol/relay-mcp](https://github.com/relayprotocol/relay-mcp)** — Merged chain-native ETH resolution fix: [#4](https://github.com/relayprotocol/relay-mcp/pull/4).
+- **[crynta/terax-ai](https://github.com/crynta/terax-ai)** and **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Public AI tooling fixes for Fish/Conda prompt recursion, terminal prompt wrapping, markdown code-block preservation, and token-mode compression: [terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085), [terax-ai#888](https://github.com/crynta/terax-ai/pull/888), [terax-ai#887](https://github.com/crynta/terax-ai/pull/887), [headroom#1489](https://github.com/headroomlabs-ai/headroom/pull/1489).
+- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS work — Selected merged PRs are also shown in the [portfolio contribution feed](https://ogarciarevett.com#oss).
+
 ### 🧪 Side projects
 <!-- - **[LangLab](https://github.com/ogarciarevett/lang-lab)** — OSS playground for polyglot deep-dives. -->
 
@@ -88,7 +101,6 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat: [#2229](https://github.com/sei-protocol/sei-chain/pull/2229).
 - **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
 - **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
-- **[mmoeip/inventory](https://github.com/mmoeip/inventory)** — Built the standalone inventory contract and repaired its tests and CI: [#1](https://github.com/mmoeip/inventory/pull/1), [#15](https://github.com/mmoeip/inventory/pull/15), [#17](https://github.com/mmoeip/inventory/pull/17).
 - **[moonstream-to/web3](https://github.com/moonstream-to/web3)** — Fixed the SDK build: [#258](https://github.com/moonstream-to/web3/pull/258).
 
 ### 🌍 Latest contributions
@@ -113,20 +125,8 @@ More contribution work:
 
 - **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — Model-set command syntax and isolated Trace Commons coverage: [#6949](https://github.com/nearai/ironclaw/pull/6949) (open), [#6714](https://github.com/nearai/ironclaw/pull/6714) (open).
 - **[nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)** — Destination-local reply context: [#3147](https://github.com/nanocoai/nanoclaw/pull/3147) (open).
-- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Production origin guidance for the backend skill: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) (open).
-
-### 🌍 Selected merged contributions
-- **[elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)** —
-  Kept authenticated `AsyncConversation` startup from blocking its event loop
-  while fetching a signed URL:
-  [#818](https://github.com/elevenlabs/elevenlabs-python/pull/818).
-- **[alloy-rs/alloy](https://github.com/alloy-rs/alloy)** — Preserved the pending block miner in the provider: [#4094](https://github.com/alloy-rs/alloy/pull/4094).
-- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** — Fixed Hermes WebUI onboarding port alignment and collision validation: [#6283](https://github.com/NVIDIA/NemoClaw/pull/6283).
-- **[anthropics/buffa](https://github.com/anthropics/buffa)** — Benchmarked selective inline lists and owned `AnalyticsEvent` representations, honored field-level enum openness during reflection, inlined generated view-field decoding, enforced closed-enum unknown-field limits, preserved packed closed-enum unknowns in protobuf views, and fixed per-type `extern_path` codegen: [#358](https://github.com/anthropics/buffa/pull/358), [#327](https://github.com/anthropics/buffa/pull/327), [#321](https://github.com/anthropics/buffa/pull/321), [#313](https://github.com/anthropics/buffa/pull/313), [#312](https://github.com/anthropics/buffa/pull/312), [#252](https://github.com/anthropics/buffa/pull/252), [#153](https://github.com/anthropics/buffa/pull/153).
-- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Made heartbeat and cron work resilient to transient filesystem read races: [#100389](https://github.com/openclaw/openclaw/pull/100389).
-- **[relayprotocol/relay-mcp](https://github.com/relayprotocol/relay-mcp)** — Merged chain-native ETH resolution fix: [#4](https://github.com/relayprotocol/relay-mcp/pull/4).
-- **[crynta/terax-ai](https://github.com/crynta/terax-ai)** and **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Public AI tooling fixes for Fish/Conda prompt recursion, terminal prompt wrapping, markdown code-block preservation, and token-mode compression: [terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085), [terax-ai#888](https://github.com/crynta/terax-ai/pull/888), [terax-ai#887](https://github.com/crynta/terax-ai/pull/887), [headroom#1489](https://github.com/headroomlabs-ai/headroom/pull/1489).
-- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS work — Selected merged PRs are also shown in the [portfolio contribution feed](https://ogarciarevett.com#oss).
+- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Public agent skills, MCP plugin and skill packages for the major agent clients, an hourly TOOLS.md sync from the public MCP and OpenAPI, and capability docs for the live TestNet contract: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1), [#2](https://github.com/Edel-Finance/edel-ai-config/pull/2), [#3](https://github.com/Edel-Finance/edel-ai-config/pull/3), [#4](https://github.com/Edel-Finance/edel-ai-config/pull/4), [#5](https://github.com/Edel-Finance/edel-ai-config/pull/5), [#6](https://github.com/Edel-Finance/edel-ai-config/pull/6), [#7](https://github.com/Edel-Finance/edel-ai-config/pull/7), [#9](https://github.com/Edel-Finance/edel-ai-config/pull/9), [#11](https://github.com/Edel-Finance/edel-ai-config/pull/11), [#12](https://github.com/Edel-Finance/edel-ai-config/pull/12), [#14](https://github.com/Edel-Finance/edel-ai-config/pull/14), [#18](https://github.com/Edel-Finance/edel-ai-config/pull/18), [#19](https://github.com/Edel-Finance/edel-ai-config/pull/19), [#20](https://github.com/Edel-Finance/edel-ai-config/pull/20), [#21](https://github.com/Edel-Finance/edel-ai-config/pull/21).
+- **[Edel-Finance/DefiLlama-Adapters](https://github.com/Edel-Finance/DefiLlama-Adapters)** — Pinned the Node.js security release for the adapter CI: [#1](https://github.com/Edel-Finance/DefiLlama-Adapters/pull/1).
 
 ### 🔐 Smart contracts I authored (cross-VM)
 - **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
