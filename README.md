@@ -47,7 +47,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ## Tools I built
 
-- **[chief-engineer](https://github.com/ogarciarevett/chief-engineer)** — A read-only panel for coding agents, environments, pull requests, and machine load.
+- **[orchestrator-bar](https://github.com/ogarciarevett/orchestrator-bar)** — A read-only panel for coding agents, environments, pull requests, and machine load.
 - **[jev-sdk](https://github.com/ogarciarevett/jev-sdk)** — A TypeScript SDK for typed Jev decisions, with secrets masked before sending.
 - **[jev-py-sdk](https://github.com/ogarciarevett/jev-py-sdk)** — A Python SDK for typed Jev decisions, with secrets masked before sending.
 - **[stacker](https://github.com/ogarciarevett/stacker)** — Combines results from overlapping agent skills and keeps their sources updatable.
