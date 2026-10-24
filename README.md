@@ -47,6 +47,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ## Tools I built
 
+- **[hyperag](https://github.com/ogarciarevett/hyperag)** — Memory and retrieval engine for agents that beats the public memory baselines on LoCoMo, DMR, LongMemEval and BEIR SciFact.
 - **[orchestrator-bar](https://github.com/ogarciarevett/orchestrator-bar)** — A read-only panel for coding agents, environments, pull requests, and machine load.
 - **[jev-sdk](https://github.com/ogarciarevett/jev-sdk)** — A TypeScript SDK for typed Jev decisions, with secrets masked before sending.
 - **[jev-py-sdk](https://github.com/ogarciarevett/jev-py-sdk)** — A Python SDK for typed Jev decisions, with secrets masked before sending.
