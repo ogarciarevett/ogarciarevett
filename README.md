@@ -52,6 +52,45 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[jev-py-sdk](https://github.com/ogarciarevett/jev-py-sdk)** — A Python SDK for typed Jev decisions, with secrets masked before sending.
 - **[stacker](https://github.com/ogarciarevett/stacker)** — Combines results from overlapping agent skills and keeps their sources updatable.
 
+---
+
+## 🚀 Projects & contributions
+
+### 🧪 Side projects
+<!-- - **[LangLab](https://github.com/ogarciarevett/lang-lab)** — OSS playground for polyglot deep-dives. -->
+
+### 🤖 AI / MCP
+
+#### Personal Agents
+- **Commas** (coming soon) — Always-on personal agent with plugins, its own browser, and remote control of your other machines over Tailscale.
+
+#### Harnesses (plugins, etc)
+- **[engram-reader](https://github.com/ogarciarevett/engram-reader)** — Read-only, privacy-filtered MCP server and skill for Engram memory. Works with Grok Bot, Cursor, Claude Code and Codex.
+- **[orca-bridge](https://github.com/ogarciarevett/orca-bridge)** — Constrained MCP bridge that lets an outside assistant send typed requests to an allowlisted Orca coordinator and read its replies.
+
+#### Skills
+- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Agent skills and authentication guidance for the Edel PERPS public API.
+
+#### Tools
+- **[stacker](https://github.com/ogarciarevett/stacker)** — Skill tool to group similar skills and avoid wasting extra tokens.
+
+#### AI apps
+- **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** — Local Japanese practice app with spaced repetition, stroke grading, and a personal progress store.
+
+### 🏆 Hackathon
+- **[bazaar](https://github.com/claude-hackaton-madrid-team-1/bazaar)** — Autonomous trading agents with natural-language negotiation and guarded execution for The Bazaar, Madrid 2026.
+- **[bazaar-live](https://github.com/claude-hackaton-madrid-team-1/bazaar-live)** — Real-time animated show and activity timeline for Team 1's Bazaar trades, duels, and decisions.
+
+### ⚡ Low Latency Systems
+- **[Market Forge](https://github.com/ogarciarevett/market-forge)** - Market CLI to generate any type of Market (SPOT, PERPS, Prediction Markets) with no technical knowledge
+
+### 🗄️ Old contributions
+- **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)** — Contributor. Added EVM event emission to Sei's staking precompile so standard Ethereum indexers can observe Cosmos-native staking state. Go + Solidity, ABI-encoded `Delegate` / `Redelegate` / `Undelegate` / `ValidatorCreated` / `ValidatorEdited` events, zero-breakage backward compat: [#2229](https://github.com/sei-protocol/sei-chain/pull/2229).
+- **[G7DAO/nft-inventory](https://github.com/G7DAO/nft-inventory)** — Game7's on-chain inventory contracts. EIP-2535 Diamond proxy with `InventoryFacet` and `game7ctl` Python deploy tooling. Built as Founder Engineer at Game7 DAO.
+- **[Monack SDK](https://github.com/Monaco-Research/monaco-sdk)** - Contributor - SDK of 0xMonaco(Hybrid-DEX) that handle their API - [Monaco Docs](https://docs.0xmonaco.com/introduction)
+- **[mmoeip/inventory](https://github.com/mmoeip/inventory)** — Built the standalone inventory contract and repaired its tests and CI: [#1](https://github.com/mmoeip/inventory/pull/1), [#15](https://github.com/mmoeip/inventory/pull/15), [#17](https://github.com/mmoeip/inventory/pull/17).
+- **[moonstream-to/web3](https://github.com/moonstream-to/web3)** — Fixed the SDK build: [#258](https://github.com/moonstream-to/web3/pull/258).
+
 ### 🌍 Latest contributions
 
 Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
@@ -69,6 +108,30 @@ Newest public merged and open PRs outside my account, excluding the hackathon te
 <!-- LATEST-CONTRIBUTIONS:END -->
 
 [Browse the full contribution history](https://github.com/search?q=is%3Apr+author%3Aogarciarevett+-user%3Aogarciarevett+is%3Apublic&type=pullrequests&s=created&o=desc).
+
+More contribution work:
+
+- **[nearai/ironclaw](https://github.com/nearai/ironclaw)** — Model-set command syntax and isolated Trace Commons coverage: [#6949](https://github.com/nearai/ironclaw/pull/6949) (open), [#6714](https://github.com/nearai/ironclaw/pull/6714) (open).
+- **[nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw)** — Destination-local reply context: [#3147](https://github.com/nanocoai/nanoclaw/pull/3147) (open).
+- **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Production origin guidance for the backend skill: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1) (open).
+
+### 🌍 Selected merged contributions
+- **[elevenlabs-python](https://github.com/elevenlabs/elevenlabs-python)** —
+  Kept authenticated `AsyncConversation` startup from blocking its event loop
+  while fetching a signed URL:
+  [#818](https://github.com/elevenlabs/elevenlabs-python/pull/818).
+- **[alloy-rs/alloy](https://github.com/alloy-rs/alloy)** — Preserved the pending block miner in the provider: [#4094](https://github.com/alloy-rs/alloy/pull/4094).
+- **[NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw)** — Fixed Hermes WebUI onboarding port alignment and collision validation: [#6283](https://github.com/NVIDIA/NemoClaw/pull/6283).
+- **[anthropics/buffa](https://github.com/anthropics/buffa)** — Benchmarked selective inline lists and owned `AnalyticsEvent` representations, honored field-level enum openness during reflection, inlined generated view-field decoding, enforced closed-enum unknown-field limits, preserved packed closed-enum unknowns in protobuf views, and fixed per-type `extern_path` codegen: [#358](https://github.com/anthropics/buffa/pull/358), [#327](https://github.com/anthropics/buffa/pull/327), [#321](https://github.com/anthropics/buffa/pull/321), [#313](https://github.com/anthropics/buffa/pull/313), [#312](https://github.com/anthropics/buffa/pull/312), [#252](https://github.com/anthropics/buffa/pull/252), [#153](https://github.com/anthropics/buffa/pull/153).
+- **[openclaw/openclaw](https://github.com/openclaw/openclaw)** — Made heartbeat and cron work resilient to transient filesystem read races: [#100389](https://github.com/openclaw/openclaw/pull/100389).
+- **[relayprotocol/relay-mcp](https://github.com/relayprotocol/relay-mcp)** — Merged chain-native ETH resolution fix: [#4](https://github.com/relayprotocol/relay-mcp/pull/4).
+- **[crynta/terax-ai](https://github.com/crynta/terax-ai)** and **[headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom)** — Public AI tooling fixes for Fish/Conda prompt recursion, terminal prompt wrapping, markdown code-block preservation, and token-mode compression: [terax-ai#1085](https://github.com/crynta/terax-ai/pull/1085), [terax-ai#888](https://github.com/crynta/terax-ai/pull/888), [terax-ai#887](https://github.com/crynta/terax-ai/pull/887), [headroom#1489](https://github.com/headroomlabs-ai/headroom/pull/1489).
+- **[FranRom/pupila](https://github.com/FranRom/pupila)**, **[G7DAO](https://github.com/G7DAO)**, **[sei-protocol/sei-chain](https://github.com/sei-protocol/sei-chain)**, **[Monaco-Research/monaco-sdk](https://github.com/Monaco-Research/monaco-sdk)**, and broader public OSS work — Selected merged PRs are also shown in the [portfolio contribution feed](https://ogarciarevett.com#oss).
+
+### 🔐 Smart contracts I authored (cross-VM)
+- **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
+- **[summon-contracts-anchor](https://github.com/G7DAO/summon-contracts-anchor)** — Same primitives, **Solana / Anchor** (Rust).
+- **[summon-contracts-move](https://github.com/G7DAO/summon-contracts-move)** — Same primitives, **Sui + Aptos** (Move).
 
 ---
 
@@ -100,7 +163,7 @@ Newest public merged and open PRs outside my account, excluding the hackathon te
   </a>
 </p>
 
-**Agent infrastructure:** MCP (Model Context Protocol) · agent orchestration · custom MCP servers
+**AI / LLM:** Anthropic Claude · OpenAI · LangChain · MCP (Model Context Protocol) · AI SDK(Vercel)
 **Chains & VMs:** EVM (Solidity, Rust, Foundry, Hardhat) · SVM (Anchor / Rust) · Move (Sui, Aptos)
 **Infra:** AWS Certified Solutions Architect · Docker · Kubernetes · Cloudflare Workers · CDK(Terraform) · CDK(AWS) · Pulumi
 **DBs:** Postgres · MongoDB · Redis · R2(Cloudflare)
