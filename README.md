@@ -51,7 +51,6 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 - **[jev-sdk](https://github.com/ogarciarevett/jev-sdk)** — A TypeScript SDK for typed Jev decisions, with secrets masked before sending.
 - **[jev-py-sdk](https://github.com/ogarciarevett/jev-py-sdk)** — A Python SDK for typed Jev decisions, with secrets masked before sending.
 - **[stacker](https://github.com/ogarciarevett/stacker)** — Combines results from overlapping agent skills and keeps their sources updatable.
-- **[vesper](https://github.com/ogarciarevett/vesper)** — A local automation runtime with a desktop app for pipelines, schedules, and permissions.
 
 ### 🌍 Latest contributions
 
