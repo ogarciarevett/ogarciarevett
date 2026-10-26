@@ -112,16 +112,16 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 Newest public merged and open PRs outside my account, excluding the hackathon team, refreshed weekly.
 <!-- LATEST-CONTRIBUTIONS:START -->
+- **Merged** [EignaLabs/.github#2](https://github.com/EignaLabs/.github/pull/2) — docs\(profile\): rewrite the org profile from the brand guide
+- **Merged** [EignaLabs/.github#1](https://github.com/EignaLabs/.github/pull/1) — docs: explain Eigna product scope and development status
+- **Merged** [Edel-Finance/edel-ai-config#24](https://github.com/Edel-Finance/edel-ai-config/pull/24) — chore\(ci\): actions on Node 24, pinned by SHA; Node 24.22.1
+- **Merged** [Edel-Finance/DefiLlama-Adapters#1](https://github.com/Edel-Finance/DefiLlama-Adapters/pull/1) — fix: pin Node.js security release and use Blacksmith
+- **Merged** [Edel-Finance/edel-ai-config#21](https://github.com/Edel-Finance/edel-ai-config/pull/21) — docs\(skills\): mark the eight tools now in the live TestNet contract
+- **Merged** [Edel-Finance/edel-ai-config#20](https://github.com/Edel-Finance/edel-ai-config/pull/20) — feat: add ChatGPT, Cursor, Gemini CLI and Pi packages
+- **Merged** [Edel-Finance/edel-ai-config#19](https://github.com/Edel-Finance/edel-ai-config/pull/19) — feat: add plugin and skill packages for Codex, Antigravity, Grok, Hermes, and OpenClaw
+- **Merged** [Edel-Finance/edel-ai-config#18](https://github.com/Edel-Finance/edel-ai-config/pull/18) — Document eight missing public MCP capabilities
 - **Merged** [Edel-Finance/edel-ai-config#14](https://github.com/Edel-Finance/edel-ai-config/pull/14) — Add capability rows for six agent tools
 - **Merged** [Edel-Finance/edel-ai-config#12](https://github.com/Edel-Finance/edel-ai-config/pull/12) — ci: run both jobs on Blacksmith runners
-- **Merged** [Edel-Finance/edel-ai-config#11](https://github.com/Edel-Finance/edel-ai-config/pull/11) — Capability rows for the new agent tools
-- **Merged** [Edel-Finance/edel-ai-config#9](https://github.com/Edel-Finance/edel-ai-config/pull/9) — TOOLS.md sync merges itself and runs on backend dispatch
-- **Merged** [Edel-Finance/edel-ai-config#7](https://github.com/Edel-Finance/edel-ai-config/pull/7) — Sync TOOLS.md with the public MCP tools and OpenAPI
-- **Merged** [Edel-Finance/edel-ai-config#6](https://github.com/Edel-Finance/edel-ai-config/pull/6) — docs\(skills\): public MCP and REST catch-up in edel-markets
-- **Merged** [Edel-Finance/edel-ai-config#5](https://github.com/Edel-Finance/edel-ai-config/pull/5) — ci\(skills\): hourly TOOLS.md sync from public sources
-- **Merged** [Edel-Finance/edel-ai-config#4](https://github.com/Edel-Finance/edel-ai-config/pull/4) — docs\(skills\): passkeys per venue, edel\_passkeys and edel\_me in edel-markets
-- **Merged** [Edel-Finance/edel-ai-config#3](https://github.com/Edel-Finance/edel-ai-config/pull/3) — feat\(skills\): rename edel-backend to edel-markets, docs as the source of truth
-- **Merged** [Edel-Finance/edel-ai-config#2](https://github.com/Edel-Finance/edel-ai-config/pull/2) — feat: Claude Code plugin and generic config for the public Edel MCP
 <!-- LATEST-CONTRIBUTIONS:END -->
 
 [Browse the full contribution history](https://github.com/search?q=is%3Apr+author%3Aogarciarevett+-user%3Aogarciarevett+is%3Apublic&type=pullrequests&s=created&o=desc).
