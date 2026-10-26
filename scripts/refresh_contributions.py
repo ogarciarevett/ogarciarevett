@@ -10,11 +10,13 @@ from pathlib import Path
 START = '<!-- LATEST-CONTRIBUTIONS:START -->'
 END = '<!-- LATEST-CONTRIBUTIONS:END -->'
 AUTHOR = 'ogarciarevett'
+EXCLUDED_ORGS = ('claude-hackaton-madrid-team-1', 'Edel-Finance', 'EignaLabs')
 
 
 def fetch(state, limit):
+    excluded = ' '.join(f'-org:{org}' for org in EXCLUDED_ORGS)
     query = (f'is:pr author:{AUTHOR} -user:{AUTHOR} '
-             f'-org:claude-hackaton-madrid-team-1 is:public is:{state}')
+             f'{excluded} is:public is:{state}')
     result = subprocess.run(
         ['gh', 'api', '-X', 'GET', 'search/issues', '-f', f'q={query}',
          '-f', 'sort=created', '-f', 'order=desc', '-f', f'per_page={limit}'],
@@ -32,7 +34,9 @@ def select(items, limit):
     for item in items:
         url = item['html_url']
         match = re.fullmatch(r'https://github.com/([\w.-]+)/([\w.-]+)/pull/(\d+)', url)
-        if not match or match[1].lower() == AUTHOR:
+        if not match or match[1].lower() in {AUTHOR, *(org.lower() for org in EXCLUDED_ORGS)}:
+            continue
+        if item.get('repository', {}).get('private', False):
             continue
         if item['user']['login'].lower() != AUTHOR:
             continue

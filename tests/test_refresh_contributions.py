@@ -18,6 +18,15 @@ def pr(number, state='open', owner='external', merged=None, title='Fix behavior'
 
 
 class RefreshTests(unittest.TestCase):
+    def test_owner_organizations_and_private_repositories_are_excluded(self):
+        outside = pr(1)
+        private = pr(5)
+        private['repository'] = {'private': True}
+        rows = refresh.select([outside, pr(4, owner='Edel-Finance'),
+                               pr(3, owner='eignalabs'), private,
+                               pr(2, owner='claude-hackaton-madrid-team-1')], 10)
+        self.assertEqual(rows, [outside])
+
     def test_newest_first_filters_closed_and_owned_and_deduplicates(self):
         older = pr(1, 'closed', merged='2026-10-02T00:00:00Z')
         newer = pr(3)
@@ -56,7 +65,7 @@ class RefreshTests(unittest.TestCase):
         with patch.object(refresh.subprocess, 'run', return_value=response) as run:
             self.assertEqual(refresh.fetch('merged', 10), [])
         arguments = run.call_args.args[0]
-        self.assertIn('q=is:pr author:ogarciarevett -user:ogarciarevett -org:claude-hackaton-madrid-team-1 is:public is:merged', arguments)
+        self.assertIn('q=is:pr author:ogarciarevett -user:ogarciarevett -org:claude-hackaton-madrid-team-1 -org:Edel-Finance -org:EignaLabs is:public is:merged', arguments)
         self.assertIn('sort=created', arguments)
         self.assertIn('order=desc', arguments)
 
