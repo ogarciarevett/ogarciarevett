@@ -2,20 +2,20 @@
 <!-- SECTION: HEADER BANNER (aquamarine) -->
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:7FFFD4&height=180&section=header&text=Omar%20Garcia&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Agents%20%E2%80%A2%20MCP%20Tooling%20%E2%80%A2%20Smart%20Contract%20Engineer&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn"
-    alt="Omar Garcia — AI Agents • MCP Tooling • Smart Contract Engineer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0D9488,100:7FFFD4&height=180&section=header&text=Omar%20Garcia&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineering%20%E2%80%A2%20Fine%20Tuning%20%E2%80%A2%20ML%20Engineering&descSize=18&descAlignY=62&descAlign=50&animation=fadeIn"
+    alt="Omar Garcia — AI Engineering • Fine Tuning • ML Engineering"
   />
 </p>
 
 <!-- SECTION: TYPING HOOK -->
-<p align="center">
+<!--p align="center">
   <a href="https://ogarciarevett.com">
     <img
       src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=0D9488&center=true&vCenter=true&width=720&height=40&lines=Building+with+AI+agents.;MCP+server+tooling+for+production+systems.;Smart+contracts%3A+EVM%2C+SVM%2C+Move.;13%2B+years+shipping+software."
       alt="Typing intro"
     />
   </a>
-</p>
+</p-->
 
 <!-- SECTION: TOP-LEVEL CTA ROW -->
 <p align="center">
@@ -35,13 +35,12 @@
 <!-- SECTION: WHO I AM -->
 ## 👋 Who I am
 
-I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**, with 13+ years shipping production systems. My focus right now is on **AI agent infrastructure, MCP (Model Context Protocol) tooling, and the on-chain primitives that connect AI to crypto rails**.
+I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**, with 13+ years shipping production systems. My focus right now is on **AI agent infrastructure, MCP (Model Context Protocol) tooling**.
 
 - 🤖 **AI agents & MCP tooling** — production LLM systems, agent orchestration, custom MCP servers
-- 🔐 **Smart contract engineering & security** — 100+ contracts shipped across **EVM, SVM (Solana), and Move (Sui & Aptos)**; auditor at **Code4rena** since June 2023
-- ⚙️ **Full-stack systems & infra** — Rust, TypeScript, Go, Python, Solidity · AWS Certified Solutions Architect
+- ⚙️ **Full-stack systems & infra** — Rust, TypeScript, Go, Python 
 
-> 🎯 **Hook me up if you're working on:** AI agents in production · MCP-native tooling · LLM × Web3 systems · smart-contract security.
+> 🎯 **Hook me up if you're working on:** AI agents in production · MCP-native tooling · LLM × Web3 systems.
 
 ---
 
@@ -49,13 +48,11 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 - **[hyperag](https://github.com/ogarciarevett/hyperag)** — Memory and retrieval engine for agents that beats the public memory baselines on LoCoMo, DMR, LongMemEval and BEIR SciFact.
 - **[orchestrator-bar](https://github.com/ogarciarevett/orchestrator-bar)** — A read-only panel for coding agents, environments, pull requests, and machine load.
-- **[jev-sdk](https://github.com/ogarciarevett/jev-sdk)** — A TypeScript SDK for typed Jev decisions, with secrets masked before sending.
-- **[jev-py-sdk](https://github.com/ogarciarevett/jev-py-sdk)** — A Python SDK for typed Jev decisions, with secrets masked before sending.
+- **[decision-sdk](https://github.com/ogarciarevett/decision-sdk)** — A modular multilang SDK that allow you to choose between JEV, D1, Laya, ETC.
 - **[stacker](https://github.com/ogarciarevett/stacker)** — Combines results from overlapping agent skills and keeps their sources updatable.
 - **[engram-reader](https://github.com/ogarciarevett/engram-reader)** — Read-only, privacy-filtered MCP server and skill for Engram memory. Works with Grok Bot, Cursor, Claude Code and Codex.
 - **[orca-bridge](https://github.com/ogarciarevett/orca-bridge)** — Constrained MCP bridge that lets an outside assistant send typed requests to an allowlisted Orca coordinator and read its replies.
 - **[bencharness](https://github.com/ogarciarevett/bencharness)** — Automatic background benchmarking of agent harnesses: finds new harnesses, adapts them to our tasks, runs fair trials, keeps the results.
-- **[commas](https://github.com/ogarciarevett/commas)** — Always-on personal agent with plugins, its own browser, and remote control of your other machines over Tailscale.
 
 ---
 
@@ -79,9 +76,6 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 
 ### 🤖 AI / MCP
 
-#### Personal Agents
-- **[Commas](https://github.com/ogarciarevett/commas)** — Always-on personal agent with plugins, its own browser, and remote control of your other machines over Tailscale.
-
 #### Harnesses (plugins, etc)
 - **[engram-reader](https://github.com/ogarciarevett/engram-reader)** — Read-only, privacy-filtered MCP server and skill for Engram memory. Works with Grok Bot, Cursor, Claude Code and Codex.
 - **[orca-bridge](https://github.com/ogarciarevett/orca-bridge)** — Constrained MCP bridge that lets an outside assistant send typed requests to an allowlisted Orca coordinator and read its replies.
@@ -92,10 +86,7 @@ I'm a **Technical Lead & Senior Software Engineer** based in **Madrid 🇪🇸**
 #### Tools
 - **[stacker](https://github.com/ogarciarevett/stacker)** — Skill tool to group similar skills and avoid wasting extra tokens.
 
-#### AI apps
-- **[kana-sensei](https://github.com/ogarciarevett/kana-sensei)** — Local Japanese practice app with spaced repetition, stroke grading, and a personal progress store.
-
-### 🏆 Hackathon
+### 🏆 Hackathons
 - **[bazaar](https://github.com/claude-hackaton-madrid-team-1/bazaar)** — Autonomous trading agents with natural-language negotiation and guarded execution for The Bazaar, Madrid 2026.
 - **[bazaar-live](https://github.com/claude-hackaton-madrid-team-1/bazaar-live)** — Real-time animated show and activity timeline for Team 1's Bazaar trades, duels, and decisions.
 
@@ -133,11 +124,6 @@ More contribution work:
 - **[Edel skills](https://github.com/Edel-Finance/edel-ai-config)** — Public agent skills, MCP plugin and skill packages for the major agent clients, an hourly TOOLS.md sync from the public MCP and OpenAPI, and capability docs for the live TestNet contract: [#1](https://github.com/Edel-Finance/edel-ai-config/pull/1), [#2](https://github.com/Edel-Finance/edel-ai-config/pull/2), [#3](https://github.com/Edel-Finance/edel-ai-config/pull/3), [#4](https://github.com/Edel-Finance/edel-ai-config/pull/4), [#5](https://github.com/Edel-Finance/edel-ai-config/pull/5), [#6](https://github.com/Edel-Finance/edel-ai-config/pull/6), [#7](https://github.com/Edel-Finance/edel-ai-config/pull/7), [#9](https://github.com/Edel-Finance/edel-ai-config/pull/9), [#11](https://github.com/Edel-Finance/edel-ai-config/pull/11), [#12](https://github.com/Edel-Finance/edel-ai-config/pull/12), [#14](https://github.com/Edel-Finance/edel-ai-config/pull/14), [#18](https://github.com/Edel-Finance/edel-ai-config/pull/18), [#19](https://github.com/Edel-Finance/edel-ai-config/pull/19), [#20](https://github.com/Edel-Finance/edel-ai-config/pull/20), [#21](https://github.com/Edel-Finance/edel-ai-config/pull/21).
 - **[Edel-Finance/DefiLlama-Adapters](https://github.com/Edel-Finance/DefiLlama-Adapters)** — Pinned the Node.js security release for the adapter CI: [#1](https://github.com/Edel-Finance/DefiLlama-Adapters/pull/1).
 
-### 🔐 Smart contracts I authored (cross-VM)
-- **[summon-contracts](https://github.com/G7DAO/summon-contracts)** — Cross-VM rewards & governance, **EVM/Solidity** edition.
-- **[summon-contracts-anchor](https://github.com/G7DAO/summon-contracts-anchor)** — Same primitives, **Solana / Anchor** (Rust).
-- **[summon-contracts-move](https://github.com/G7DAO/summon-contracts-move)** — Same primitives, **Sui + Aptos** (Move).
-
 ---
 
 ## 📈 GitHub activity
@@ -169,7 +155,6 @@ More contribution work:
 </p>
 
 **AI / LLM:** Anthropic Claude · OpenAI · LangChain · MCP (Model Context Protocol) · AI SDK(Vercel)
-**Chains & VMs:** EVM (Solidity, Rust, Foundry, Hardhat) · SVM (Anchor / Rust) · Move (Sui, Aptos)
 **Infra:** AWS Certified Solutions Architect · Docker · Kubernetes · Cloudflare Workers · CDK(Terraform) · CDK(AWS) · Pulumi
 **DBs:** Postgres · MongoDB · Redis · R2(Cloudflare)
 
@@ -180,9 +165,6 @@ More contribution work:
 <!-- BLOG-POST-LIST:END -->
 
 <!-- SECTION: FOOTER CTA -->
-<p align="center">
-  <strong>Currently open to:</strong> deep technical collaborations · AI agent engineering · MCP tooling · smart-contract security · advisory.
-</p>
 <p align="center">
   <a href="https://ogarciarevett.com">
     <img src="https://img.shields.io/badge/→%20ogarciarevett.com-0F172A?style=for-the-badge&logoColor=white" alt="Portfolio" />
